@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idawioha.github.io/HUa/sitemap_index.txt
+Sitemap: https://idawioha.github.io/bmJ/sitemap_index.txt
+Sitemap: https://idawioha.github.io/dPB/sitemap_index.txt
+Sitemap: https://idawioha.github.io/diu/sitemap_index.txt
